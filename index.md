@@ -1,3 +1,3 @@
 ## MENU
-[VINIL](/vinil.md)
+[VINIL](./vinil.md) | [CD's](./cds.md)
 
