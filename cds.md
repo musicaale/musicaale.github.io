@@ -14,8 +14,4 @@ Olivia Rodrigo
 
 One Direction
 
-Pedro Infante
-
-José José
-
 
