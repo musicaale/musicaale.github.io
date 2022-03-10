@@ -7,6 +7,6 @@ En esta página podrás encontrar todos esos discos de tus artistas favoritos y 
 
 Si te interesa comprar alguno puedes comunicarte al siguiente número +42 6735610988
 
-Contamos con entregas a domicilio cercanas y/o paquetería a cualquier estado de la pepública mexicana
+Contamos con entregas a domicilio cercanas y/o paquetería a cualquier estado de la república mexicana
 
 
