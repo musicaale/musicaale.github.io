@@ -1,16 +1,16 @@
 Aquí encontrarás todos los discos vinil de todos tus artistas favoritos o de tu género musical preferido.
 
-Rock
+[Rock](./rock.md)
 
-Pop en inglés
+[Pop en inglés](./popeningles.md)
 
-Pop en español
+[Pop en español](./popenespañol.md)
 
-Cumbias
+[Cumbias](./cumbias.md)
 
-Salsa
+[Salsa](./salsa.md)
 
-Bachata
+[Bachata](./bachata.md)
 
-Reguetón
+[Reguetón](./reguetón.md)
 
