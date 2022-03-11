@@ -12,5 +12,5 @@ Aquí encontrarás todos los discos vinil de todos tus artistas favoritos o de t
 
 [Bachata](./bachata.md)
 
-[Reguetón](./reguetón.md)
+[Reguetón](./regueton.md)
 
