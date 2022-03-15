@@ -10,3 +10,10 @@ Maroon 5
 ![image](https://user-images.githubusercontent.com/99769631/158487017-1c585547-01d1-4f38-b5cd-320a1d5c8516.png)
 
 One Direction
+
+![image](https://user-images.githubusercontent.com/99769631/158487103-04987792-996c-472f-a3a6-f85733b048d3.png)
+
+Lana del Rey
+
+![image](https://user-images.githubusercontent.com/99769631/158487166-8e4cb6ea-4a0a-447c-80e9-9ace141729b6.png)
+
