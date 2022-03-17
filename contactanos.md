@@ -6,8 +6,12 @@
   <input type="text" id="name" name="name" value="Tus nombres"><br>
   <label for="lname">Apellidos:</label><br>
   <input type="text" id="lname" name="lname" value="Apellidos"><br>
-  <input type="checkbox" name="Vehicle"value="car" checked="checked"/>
-  <input type="text" name="lastname"disabled="disabled"/>
+  <label for="name">Correo electronico:</label><br>
+  <input type="text" id="name" name="name" value="Correo"><br>
+  <label for="name">Fecha de entrega:</label><br>
+  <input type="text" id="name" name="name" value="Fecha"><br>
+  <label for="name">Producto:</label><br>
+  <input type="text" id="name" name="name" value="Producto"><br>
  </form>
  
 ![wa link_7xb1hz](https://user-images.githubusercontent.com/99769631/158484524-078d626e-8b95-4834-9d9b-5a673d01bb26.png)
