@@ -12,7 +12,6 @@
   <input type="text" id="name" name="name" value="Fecha"><br>
   <label for="name">Producto:</label><br>
   <input type="text" id="name" name="name" value="Producto"><br>
-  
   <input type="submit" value="Enviar">
  </form>
  
