@@ -9,7 +9,7 @@
   <label for="name">Correo electronico:</label><br>
   <input type="text" id="name" name="name" value="Correo"><br>
   <label for="name">Fecha de entrega:</label><br>
-  <input type="text" id="name" name="name" value="Fecha"><br>
+  <input type="date" id="name" name="name">
   <label for="name">Producto:</label><br>
   <input type="text" id="name" name="name" value="Producto"><br>
   <input type="submit" value="Enviar">
