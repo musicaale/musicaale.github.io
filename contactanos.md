@@ -13,7 +13,7 @@
   <label for="name">Producto:</label><br>
   <input type="text" id="name" name="name" value="Producto"><br>
   
-  <input type="submit" value="submit">
+  <input type="submit" value="Enviar">
  </form>
  
 ![wa link_7xb1hz](https://user-images.githubusercontent.com/99769631/158484524-078d626e-8b95-4834-9d9b-5a673d01bb26.png)
