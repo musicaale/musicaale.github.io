@@ -1,7 +1,7 @@
 
 [VINYL](musicaale.github.io) | [CD's](./cds.md) | [ACETATO DE 45/33](./acetato.md) | [CASETE](./casete.md) | [CONTACTANOS](./contactanos.md)
 
-<form action="/action_page.php">
+<form action="/action_page.php"method="php">
   <label for="name">Nombres:</label><br>
   <input type="text" id="name" name="name" value="Tus nombres"><br>
   <label for="lname">Apellidos:</label><br>
